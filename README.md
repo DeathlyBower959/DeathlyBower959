@@ -15,4 +15,4 @@ TestTest
 
 
 
-[![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,1E1E1E,290000)](https://github.com/anuraghazra/github-readme-stats) <!--Lol you tried to read this xDDDD-->
+[![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,141414,280000)](https://github.com/anuraghazra/github-readme-stats) <!--Lol you tried to read this xDDDD-->
