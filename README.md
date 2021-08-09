@@ -1,8 +1,9 @@
-Still working on it, unless im lazy and forget :D
-
 <p align="center">
+  <img src="https://github.com/DeathlyBower959/DeathlyBower959/blob/master/images/Youtube%20Banner%20Better.png" alt="ChannelBanner">
   <a href="https://youtube.com/DeathlyBower959"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
+
+Still working on it, unless im lazy and forget :D
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
