@@ -13,4 +13,4 @@ TestTest
 - [Playing with Viewers :D](https://www.youtube.com/watch?v=AamHG6XwNfg) |  
 <!-- YOUTUBE:END -->
 
-[![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959)](https://github.com/anuraghazra/github-readme-stats)
+[![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
