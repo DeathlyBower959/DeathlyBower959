@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DeathlyBower959/DeathlyBower959/blob/master/images/Youtube%20Banner%20Better.png" alt="ChannelBanner">
+  <img src="https://github.com/DeathlyBower959/DeathlyBower959/blob/master/images/PFP.jpg" alt="ChannelBanner">
   <a href="https://youtube.com/DeathlyBower959"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
