@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: DeathlyBower959/blog-post-workflow@master
+      - uses: DeathlyBower959/blog-post-workflow@masterr
         with:
           comment_tag_name: "YOUTUBE"
           date_format: "UTC:ddd mmm yyyy"
