@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: DeathlyBower959/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
           date_format: "UTC:ddd mmm yyyy"
-          template: "$newline- [$title]($url) | $description $newline"
+          template: "$newline- [$title]($url) $newline"
           commit_message: "Updated README.md with the latest youtube videos!"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCa9Hutl7H3q8z6EvBz6O1sQ"
