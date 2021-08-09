@@ -2,15 +2,15 @@ TestTest
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Playing With A Logical Blade...](https://www.youtube.com/watch?v=xKVA5IWONTc) |  
+- [Playing With A Logical Blade...](https://www.youtube.com/watch?v=xKVA5IWONTc) 
 
-- [Suffering in RLCraft](https://www.youtube.com/watch?v=WYhAvxVRc2Q) |  
+- [Suffering in RLCraft](https://www.youtube.com/watch?v=WYhAvxVRc2Q) 
 
-- [New strem setup :D](https://www.youtube.com/watch?v=DmBBShSchrM) |  
+- [New strem setup :D](https://www.youtube.com/watch?v=DmBBShSchrM) 
 
-- [Blocks = no](https://www.youtube.com/watch?v=dAeHuMVOF2o) |  
+- [Blocks = no](https://www.youtube.com/watch?v=dAeHuMVOF2o) 
 
-- [Playing with Viewers :D](https://www.youtube.com/watch?v=AamHG6XwNfg) |  
+- [Playing with Viewers :D](https://www.youtube.com/watch?v=AamHG6XwNfg) 
 <!-- YOUTUBE:END -->
 
 [![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
