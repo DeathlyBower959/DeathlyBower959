@@ -22,4 +22,4 @@ Still working on it, unless im lazy and forget :D
 
 
 
-[![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/anuraghazra/github-readme-stats)
+![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)
