@@ -29,12 +29,9 @@
 ---
 
 <!--Github Repos-->
-<h1>Cool Repositories</h1>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ventile-Client&repo=Launcher&show_owner=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/Ventile-Client/Launcher)
 
 <!--Stats-->
-<h1>My Stats</h1>
 [![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/DeathlyBower959)
 
-<h1>My Top Languages</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathlyBower959&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)
