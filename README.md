@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **DeathlyBower959 [YT]#2561**
 
-
+<br>
 
 ### Connect With Me:
 <p align="left">
@@ -16,7 +16,7 @@
 <a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="https://discord.gg/pfZATvy3Fs" height="60" width="80" /></a>
 </p>
 
-
+<br>
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
