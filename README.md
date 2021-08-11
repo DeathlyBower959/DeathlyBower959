@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deathly!</h1>
 
+### Some Info
+
 - 👷 I’m currently working on the Ventile Launcher right now!
 
 - 🌱 I’m currently learning **website development**, **C#** and trying to learn C++ but failing xD.
 
 - 📫 How to reach me **DeathlyBower959 [YT]#2561**
 
-<h3 align="left">Connect with me:</h3>
+### Connect With Me:
 <p align="left">
 <a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="https://www.youtube.com/DeathlyBower959" height="60" width="80" /></a>
 <a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="https://discord.gg/pfZATvy3Fs" height="60" width="80" /></a>
 </p>
 
 
-### 📺 Latest Youtube Videos
+### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
 - [Playing With A Logical Blade...](https://www.youtube.com/watch?v=xKVA5IWONTc) 
 
@@ -28,7 +30,7 @@
 
 ---
 
-### Cool Stuff
+### Languages That I Use:
 
 <!--Github Repos-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ventile-Client&repo=Launcher&show_owner=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/Ventile-Client/Launcher)
