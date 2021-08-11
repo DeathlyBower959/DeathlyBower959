@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deathly!</h1>
 
-- I’m currently working on the Ventile Launcher right now!
+- 👷 I’m currently working on the Ventile Launcher right now!
 
 - 🌱 I’m currently learning **website development**, **C#** and trying to learn C++ but failing xD.
 
@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="Youtube: https://www.youtube.com/DeathlyBower959" height="60" width="80" /></a>
-<a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="Deathly's Lounge" height="60" width="80" /></a>
+<a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="https://www.youtube.com/DeathlyBower959" height="60" width="80" /></a>
+<a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="https://discord.gg/pfZATvy3Fs" height="60" width="80" /></a>
 </p>
 
 
