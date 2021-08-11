@@ -28,6 +28,8 @@
 
 ---
 
+<h1>Cool Stuff</h1>
+
 <!--Github Repos-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ventile-Client&repo=Launcher&show_owner=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/Ventile-Client/Launcher)
 
