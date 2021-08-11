@@ -6,7 +6,11 @@
 
 - 📫 How to reach me **DeathlyBower959 [YT]#2561**
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="https://www.youtube.com/DeathlyBower959" height="60" width="80" /></a>
+<a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="https://discord.gg/pfZATvy3Fs" height="60" width="80" /></a>
+</p>
 
 
 ### 📺 Latest Youtube Videos
