@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://github.com/DeathlyBower959/DeathlyBower959/blob/master/images/Banner.png" alt="Banner" >
-</p>
-<p align="center">
-  <a href="https://youtube.com/DeathlyBower959"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<h1 align="center">Hi 👋, I'm Deathly!</h1>
+
+- I’m currently working on the Ventile Launcher right now!
+
+- 🌱 I’m currently learning **website development**, **C#** and trying to learn C++ but failing xD.
+
+- 📫 How to reach me **DeathlyBower959 [YT]#2561**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="Youtube: https://www.youtube.com/DeathlyBower959" height="30" width="40" /></a>
+<a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="Deathly's Lounge" height="30" width="40" /></a>
 </p>
 
-Still working on it, unless im lazy and forget :D
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
