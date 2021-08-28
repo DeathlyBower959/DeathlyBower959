@@ -42,7 +42,7 @@
 </p>
 
 <!--Github Repos-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ventile-Client&repo=Download&show_owner=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/Ventile-Client/Launcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ventile-Client&repo=Download&show_owner=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/Ventile-Client/Download)
 
 <!--Stats-->
 [![Deathly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathlyBower959&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=DEG,000000,280000)](https://github.com/DeathlyBower959)
