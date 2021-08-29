@@ -16,6 +16,8 @@
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
+- [Im Back In School](https://www.youtube.com/watch?v=Qo45r56ypX8) 
+
 - [Onix Client Update Pog](https://www.youtube.com/watch?v=4UBIpTIN8Cs) 
 
 - [Playing With A Logical Blade...](https://www.youtube.com/watch?v=xKVA5IWONTc) 
@@ -23,8 +25,6 @@
 - [Suffering in RLCraft](https://www.youtube.com/watch?v=WYhAvxVRc2Q) 
 
 - [New strem setup :D](https://www.youtube.com/watch?v=DmBBShSchrM) 
-
-- [Blocks = no](https://www.youtube.com/watch?v=dAeHuMVOF2o) 
 <!-- YOUTUBE:END -->
 
 ---
