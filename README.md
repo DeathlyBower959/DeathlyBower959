@@ -16,8 +16,6 @@
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
-- [War Crimes in Treasure Wars w/ Juimango40](https://www.youtube.com/watch?v=WQp8qCjF2DM) 
-
 - [Im Back In School](https://www.youtube.com/watch?v=Qo45r56ypX8) 
 
 - [Onix Client Update Pog](https://www.youtube.com/watch?v=4UBIpTIN8Cs) 
@@ -25,6 +23,8 @@
 - [Playing With A Logical Blade...](https://www.youtube.com/watch?v=xKVA5IWONTc) 
 
 - [Suffering in RLCraft](https://www.youtube.com/watch?v=WYhAvxVRc2Q) 
+
+- [New strem setup :D](https://www.youtube.com/watch?v=DmBBShSchrM) 
 <!-- YOUTUBE:END -->
 
 ---
