@@ -7,6 +7,13 @@
 - 🌱 I’m currently learning **website development**, **C#** and trying to learn C++ but failing xD.
 
 - 📫 How to reach me **DeathlyBower959 [YT]#2561**
+- 
+<a href="https://discord.com/users/689284642184101970">
+  <img src="https://lanyard-profile-readme.vercel.app/api/689284642184101970" align="left" />
+</a>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689284642184101970)](https://discord.com/users/689284642184101970)
+
 
 ### Connect With Me:
 <p align="left">
