@@ -9,10 +9,8 @@
 - 📫 How to reach me **DeathlyBower959 [YT]#2561**
 - 
 <a href="https://discord.com/users/689284642184101970">
-  <img src="https://lanyard-profile-readme.vercel.app/api/689284642184101970" align="left" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/689284642184101970?theme=dark&bg=000000&animated=false&hideDiscrim=true&borderRadius=4px&idleMessage=Probably%20coding%20lol..." align="left" />
 </a>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689284642184101970)](https://discord.com/users/689284642184101970)
 
 
 ### Connect With Me:
