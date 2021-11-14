@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
 
 ### My Socials
-<a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="https://www.youtube.com/DeathlyBower959" height="60" width="80" /></a>
-<a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="https://discord.gg/pfZATvy3Fs" height="60" width="80" /></a>
+<a href="https://www.youtube.com/DeathlyBower959" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="https://www.youtube.com/DeathlyBower959" height="45" width="60" /></a>
+<a href="https://discord.gg/pfZATvy3Fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/discord.svg" alt="https://discord.gg/pfZATvy3Fs" height="45" width="60" /></a>
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
