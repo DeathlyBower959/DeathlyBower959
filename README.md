@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Deathly!</h1>
 
-### Some Info
+### About Me
 
 - 👷 I’m currently working on the Ventile Launcher right now!
 
-- 🌱 I’m currently learning **website development**, **C#** and trying to learn C++ but failing xD.
+- 🌱 I’m currently learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
 
 - 📫 How to reach me **DeathlyBower959 [YT]#2561**
 
-
+<br>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689284642184101970?theme=dark&bg=141414&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20coding%20lol...)](https://discord.com/users/689284642184101970)
-
 
 ### Connect With Me:
 <p align="left">
