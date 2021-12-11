@@ -12,6 +12,8 @@
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
+- [Coding timelapse](https://www.youtube.com/watch?v=Pj2_wJPrJn8) 
+
 - [I only used the keyboard? w/Juimango40YT](https://www.youtube.com/watch?v=Fj9m33vDauk) 
 
 - [Skywars, but pickaxe no exist](https://www.youtube.com/watch?v=yl-gQBnAB0c) 
@@ -19,8 +21,6 @@
 - [Hive, but EVERY gamemode](https://www.youtube.com/watch?v=TkjcFuRQ9hI) 
 
 - [War Crimes in Treasure Wars w/ Juimango40](https://www.youtube.com/watch?v=WQp8qCjF2DM) 
-
-- [Im Back In School](https://www.youtube.com/watch?v=Qo45r56ypX8) 
 <!-- YOUTUBE:END -->
 
 ---
