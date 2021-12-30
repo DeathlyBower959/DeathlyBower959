@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👷 I’m currently working on a [Recipe Manager](http://thereciperack.ml) right now!
+- 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now!
 
 - 🌱 I’m currently learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
 
