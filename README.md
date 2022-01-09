@@ -12,6 +12,8 @@
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
+- [Hive Spedrun](https://www.youtube.com/watch?v=va_1_ZK76LA) 
+
 - [Trapping Players with 10 IQ](https://www.youtube.com/watch?v=M-G9caWMNQU) 
 
 - [Coding timelapse](https://www.youtube.com/watch?v=Pj2_wJPrJn8) 
@@ -19,8 +21,6 @@
 - [I only used the keyboard? w/Juimango40YT](https://www.youtube.com/watch?v=Fj9m33vDauk) 
 
 - [Skywars, but pickaxe no exist](https://www.youtube.com/watch?v=yl-gQBnAB0c) 
-
-- [Hive, but EVERY gamemode](https://www.youtube.com/watch?v=TkjcFuRQ9hI) 
 <!-- YOUTUBE:END -->
 
 ---
