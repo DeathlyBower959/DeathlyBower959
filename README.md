@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deathly, a 13 year old dev!</h1>
+<h1 align="center">Hi 👋, I'm Deathly!</h1>
 
 ### About Me
 
@@ -6,7 +6,9 @@
 
 - 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now!
 
-- 🌱 I’m learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
+- 🌱 Learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
+
+- 🎂 Simple 13 year old developer :D
 
 ### My Socials
 <a href="https://www.youtube.com/DeathlyBower959" target="_blank"><img align="center" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/youtube.svg" alt="https://www.youtube.com/DeathlyBower959" height="45" width="60" /></a>
