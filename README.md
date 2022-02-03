@@ -33,12 +33,15 @@
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
-[![I Got a Job?](https://freshidea.com/jonah/app/youtube-card/?id=5EAGRUGYt84)](https://www.youtube.com/watch?v=5EAGRUGYt84 "I Got a Job?")
-[![Hive Spedrun](https://freshidea.com/jonah/app/youtube-card/?id=va_1_ZK76LA)](https://www.youtube.com/watch?v=va_1_ZK76LA "Hive Spedrun")
-[![Trapping Players with 10 IQ](https://freshidea.com/jonah/app/youtube-card/?id=M-G9caWMNQU)](https://www.youtube.com/watch?v=M-G9caWMNQU "Trapping Players with 10 IQ")
-[![Coding timelapse](https://freshidea.com/jonah/app/youtube-card/?id=Pj2_wJPrJn8)](https://www.youtube.com/watch?v=Pj2_wJPrJn8 "Coding timelapse")
-[![I only used the keyboard? w/Juimango40YT](https://freshidea.com/jonah/app/youtube-card/?id=Fj9m33vDauk)](https://www.youtube.com/watch?v=Fj9m33vDauk "I only used the keyboard? w/Juimango40YT")
-[![Skywars, but pickaxe no exist](https://freshidea.com/jonah/app/youtube-card/?id=yl-gQBnAB0c)](https://www.youtube.com/watch?v=yl-gQBnAB0c "Skywars, but pickaxe no exist")
+- [I Got a Job?](https://www.youtube.com/watch?v=5EAGRUGYt84) 
+
+- [Hive Spedrun](https://www.youtube.com/watch?v=va_1_ZK76LA) 
+
+- [Trapping Players with 10 IQ](https://www.youtube.com/watch?v=M-G9caWMNQU) 
+
+- [Coding timelapse](https://www.youtube.com/watch?v=Pj2_wJPrJn8) 
+
+- [I only used the keyboard? w/Juimango40YT](https://www.youtube.com/watch?v=Fj9m33vDauk) 
 <!-- YOUTUBE:END -->
 
 ## 🔥 Streak stats
