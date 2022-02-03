@@ -32,7 +32,7 @@
 - 🎂 Simple 13 year old developer :D
 
 ### 📺 My Latest Youtube Videos:
-<!-- YOUTUBE:START -->
+<!-- Youtube:START -->
 - [I Got a Job?](https://www.youtube.com/watch?v=5EAGRUGYt84) 
 
 - [Hive Spedrun](https://www.youtube.com/watch?v=va_1_ZK76LA) 
@@ -42,7 +42,7 @@
 - [Coding timelapse](https://www.youtube.com/watch?v=Pj2_wJPrJn8) 
 
 - [I only used the keyboard? w/Juimango40YT](https://www.youtube.com/watch?v=Fj9m33vDauk) 
-<!-- YOUTUBE:END -->
+<!-- Youtube:END -->
 
 ## 🔥 Streak stats
 
