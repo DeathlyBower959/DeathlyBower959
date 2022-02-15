@@ -33,6 +33,8 @@
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
+- [Oversimplifying Math!](https://www.youtube.com/watch?v=g6AxuLCw7II) 
+
 - [Forgetting To Exist w/ LogicBlade](https://www.youtube.com/watch?v=KHg_ZMCn7Uw) 
 
 - [Explaining Folder Paths](https://www.youtube.com/watch?v=qgOlR8RuEKY) 
@@ -40,8 +42,6 @@
 - [I Got a Job?](https://www.youtube.com/watch?v=5EAGRUGYt84) 
 
 - [Hive Spedrun](https://www.youtube.com/watch?v=va_1_ZK76LA) 
-
-- [Trapping Players with 10 IQ](https://www.youtube.com/watch?v=M-G9caWMNQU) 
 <!-- YOUTUBE:END -->
 
 ## 🔥 Streak stats
