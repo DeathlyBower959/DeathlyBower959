@@ -29,7 +29,7 @@
 
 - 🌱 Learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
 
-- 🎂 Simple 13 year old developer :D
+- 🎂 Simple 14 year old developer :D
 
 ### 📺 My Latest Youtube Videos:
 <!-- YOUTUBE:START -->
