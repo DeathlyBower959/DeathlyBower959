@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://www.youtube.com/c/DeathlyBower959"><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DeathlyBower959"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/Twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/pfZATvy3Fs" alt="Deathly's Lounge"><img width="32px" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/Discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
@@ -22,12 +20,9 @@
 </p>
 
 ### About Me
-
-- 💼 I work at [A Tempo](http://atempo.studio/)
-
 - 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now!
 
-- 🌱 Learning **website development**/**React**, **C#** and trying to learn **C++** but failing xD.
+- 🌱 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **C#** and trying to learn **C++** but failing xD.
 
 - 🎂 Simple 14 year old developer :D
 
@@ -58,39 +53,41 @@
 
 ### 👨‍💻 Languages
 <p align="left"> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/xaml-overview?view=vs-2022#:~:text=Extensible%20Application%20Markup%20Language%20(XAML,Xamarin." target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="XAML" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://discord.js.org" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="djs" width="40" height="40"/> </a>
-  <a href="https://www.nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> 
+  <a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/xaml-overview" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="XAML" width="40" height="40"/> </a>
 </p>
 
 ### 🧰 Frameworks
 
 <p align="left"> 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://electronjs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/> </a>
+  <a href="https://graphql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQl" width="40" height="40"/> </a>
+  <a href="https://discord.js.org" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/26492485" alt="djs" width="40" height="40"/> </a>
 </p>
 
-### 💻 Software
+### 📝 Databases
 <p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0" target="_blank"> 
-    </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> </a>
 </p>
 
 ## 📊 Github stats
