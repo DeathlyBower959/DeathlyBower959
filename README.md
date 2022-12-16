@@ -103,7 +103,7 @@
 -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DeathlyBower959's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeathlyBower959&bg_color=141414&color=CC3939&line=CC3939&point=C0C0C0" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DeathlyBower959's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeathlyBower959&bg_color=141414&color=CC3939&line=CC3939&point=C0C0C0" /></a>
 
 ## ❓ My Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689284642184101970?theme=dark&bg=141414&hideDiscrim=true&hideBadges=true&borderRadius=5px&idleMessage=Probably%20coding%20lol...)](https://discord.com/users/689284642184101970)
