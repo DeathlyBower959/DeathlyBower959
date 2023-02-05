@@ -1,73 +1,32 @@
-<h1 align="center">Hi 👋, I'm Deathly!</h1>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DeathlyBower959"><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/Youtube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/pfZATvy3Fs" alt="Deathly's Lounge"><img width="32px" src="https://raw.githubusercontent.com/DeathlyBower959/DeathlyBower959/master/images/Discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/c/DeathlyBower959?sub_confirmation=1">
-    <img alt="YT Subs" title="Subscribe!" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCa9Hutl7H3q8z6EvBz6O1sQ?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DeathlyBower959">
-    <img alt="YT views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCa9Hutl7H3q8z6EvBz6O1sQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/DeathlyBower959?tab=repositories&sort=stargazers">
-    <img alt="Github Stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DeathlyBower959"/></a>
-  <a href="https://github.com/DeathlyBower959?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DeathlyBower959?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+<h1 align="center">Hi, I'm Deathly! 👋</h1>
+<h3 align="center">A passionate fullstack developer, exploring the technological world</h3>
 
 ### About Me
-- 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now!
 
-- 🌱 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **C#** and trying to learn **C++** but failing xD.
+- 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now! (not really tbh)
+
+- 🧠 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **C#** and trying to learn **C++** but failing xD.
 
 - 🎂 Simple 14 year old developer :D
-
-### 📺 My Latest Youtube Videos:
-<!-- YOUTUBE:START -->
-- [Oversimplifying Math!](https://www.youtube.com/watch?v=g6AxuLCw7II) 
-
-- [Forgetting To Exist w/ LogicBlade](https://www.youtube.com/watch?v=KHg_ZMCn7Uw) 
-
-- [Explaining Folder Paths](https://www.youtube.com/watch?v=qgOlR8RuEKY) 
-
-- [I Got a Job?](https://www.youtube.com/watch?v=5EAGRUGYt84) 
-
-- [Hive Spedrun](https://www.youtube.com/watch?v=va_1_ZK76LA) 
-<!-- YOUTUBE:END -->
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeathlyBower959's streak" src="http://github-readme-streak-stats.herokuapp.com?user=DeathlyBower959&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141414&stroke=282828&fire=BE4019&currStreakLabel=DD7A2D&sideNums=CC3939&currStreakNum=DDBC34&sideLabels=DD7A2D&dates=636363&ring=BE4019"/>
-  </a>
-</p>
-
 
 ## 🔨 My Tools
 
 ### 👨‍💻 Languages
+
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> 
-  <a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/xaml-overview" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="XAML" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/> </a>
 </p>
 
-### 🧰 Frameworks
+### 🧰 Frontend
 
 <p align="left"> 
   <a href="https://nextjs.org" target="_blank"> 
@@ -76,13 +35,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://electronjs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/> </a>
-  <a href="https://graphql.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQl" width="40" height="40"/> </a>
   <a href="https://discord.js.org" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/26492485" alt="djs" width="40" height="40"/> </a>
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
+</p>
+
+### 🖥 Backend
+
+<p align="left"> 
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a>
+  <a href="https://graphql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQl" width="40" height="40"/> </a>
 </p>
 
 ### 📝 Databases
+
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
@@ -94,16 +65,24 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/DeathlyBower959"><img alt="DeathlyBower959's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathlyBower959&hide_border=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414"/></a> 
+<p>
+  <img align="left" src="https://streak-stats.demolab.com?user=DeathlyBower959&background=141414&dates=C0C0C0&fire=CC3939&currStreakLabel=CC3939&stroke=C0C0C0&border=232323&ring=CC3939&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="Deathly's Streak" />
+</p>
 
-<a href="https://github.com/DeathlyBower959"><img alt="DeathlyBower959's Top Languages" src="https://github-readme-stats.vercel.app/api?username=DeathlyBower959&hide_border=true&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414"/></a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathlyBower959&hide_border=true&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414" alt="Deathly's Stats" />
+</p>
 
-<!--Github Repos-->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ventile-Client&repo=Download&hide_border=true&show_owner=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414)](https://github.com/Ventile-Client/Download)
--->
+<p align="center">
+  <img  alt="Deathly's Activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeathlyBower959&bg_color=141414&color=CC3939&line=CC3939&point=C0C0C0" />
+</p>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DeathlyBower959's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeathlyBower959&bg_color=141414&color=CC3939&line=CC3939&point=C0C0C0" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathlyBower959&hide_border=true&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414" alt="Deathly's Top Languages" />
+</p>
 
-## ❓ My Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/689284642184101970?theme=dark&bg=141414&hideDiscrim=true&hideBadges=true&borderRadius=5px&idleMessage=Probably%20coding%20lol...)](https://discord.com/users/689284642184101970)
+<a  href="https://discord.com/users/689284642184101970">
+  <p align="center">
+  <img src="https://lanyard.cnrad.dev/api/689284642184101970?theme=dark&bg=141414&hideDiscrim=true&hideBadges=true&borderRadius=5px&idleMessage=Probably%20coding%20lol..." alt="Discord Status">
+  </p>
+</a>
