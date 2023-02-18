@@ -7,7 +7,7 @@
 
 - 🧠 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **C#** and trying to learn **C++** but failing xD.
 
-- 🎂 Simple 14 year old developer :D
+- 🎂 15 year old dev :D
 
 ## 🔨 My Tools
 
