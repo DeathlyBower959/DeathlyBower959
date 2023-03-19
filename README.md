@@ -5,7 +5,7 @@
 
 - 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now! (not really tbh)
 
-- 🧠 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **C#** and trying to learn **C++** but failing xD.
+- 🧠 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **Rust**, and C/C++
 
 - 🎂 15 year old dev :D
 
