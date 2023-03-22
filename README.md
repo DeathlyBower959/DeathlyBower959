@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 👷 I’m currently working on [The Recipe Rack](http://thereciperack.ml) right now! (not really tbh)
+- 👷 I’m currently working on personal projects, and some for my friends.
 
 - 🧠 Learning **Web Dev FullStack** (The millions of JS frameworks, backend, etc), **Rust**, and **C/C++**
 
@@ -24,6 +24,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/> </a>
+   <a href="https://www.rust-lang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> </a>
 </p>
 
 ### 🧰 Frontend
@@ -33,12 +35,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://electronjs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/> </a>
   <a href="https://discord.js.org" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/26492485" alt="djs" width="40" height="40"/> </a>
   <a href="https://redux.js.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
+    <br>
+  <a href="https://tauri.app/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="Tauri" width="40" height="40"/> </a>
+  <a href="https://electronjs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/> </a>
 </p>
 
 ### 🖥 Backend
@@ -57,6 +62,8 @@
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://planetscale.com/" target="_blank"> 
+    <img src="https://api.iconify.design/logos/planetscale.svg" alt="PlanetScale" width="40" height="40"/> </a>
   <a href="https://firebase.google.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> </a>
 </p>
