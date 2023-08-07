@@ -35,8 +35,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://discord.js.org" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/26492485" alt="djs" width="40" height="40"/> </a>
   <a href="https://redux.js.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
     <br>
@@ -68,20 +66,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> </a>
 </p>
 
+### 👽 Other
+  <a href="https://discord.js.org" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/26492485" alt="djs" width="40" height="40"/> </a>
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<p>
-  <img align="left" src="https://streak-stats.demolab.com?user=DeathlyBower959&background=141414&dates=C0C0C0&fire=CC3939&currStreakLabel=CC3939&stroke=C0C0C0&border=232323&ring=CC3939&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="Deathly's Streak" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathlyBower959&hide_border=true&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414" alt="Deathly's Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeathlyBower959&background=141414&dates=C0C0C0&fire=CC3939&currStreakLabel=CC3939&stroke=C0C0C0&border=232323&ring=CC3939&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="Deathly's Streak" />
 </p>
 
 <p align="center">
-  <img  alt="Deathly's Activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeathlyBower959&bg_color=141414&color=CC3939&line=CC3939&point=C0C0C0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeathlyBower959&hide_border=true&show_icons=true&custom_title=Deathly%27s%20Stats&title_color=FFFFFF&icon_color=CC3939&text_color=C0C0C0&bg_color=141414" alt="Deathly's Stats" />
 </p>
 
 <p align="center">
